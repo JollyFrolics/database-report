@@ -1,12 +1,5 @@
 # Lab Report 1
 
-- **Name** Abhinav Adhikari
-- **Roll no** 2
-- **CS II-II**
-
-> [!NOTE]
-> The project assigned to me is ResearchProjects_DB
-
 ## Schema
 
 For this project, I decided in the following schema.
