@@ -1,0 +1,23 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/JollyFrolics/database-report#readme",
+  "bugs": {
+    "url": "https://github.com/JollyFrolics/database-report/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JollyFrolics/database-report.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}
