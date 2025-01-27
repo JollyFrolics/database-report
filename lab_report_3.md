@@ -71,5 +71,12 @@ Right join only checks the ON condition on the right table.
 ```sql
 SELECT Patient.patient_name, Doctor.doctor_name FROM Patient RIGHT JOIN Doctor ON Patient.doctor_id = Doctor.doctor_id;
 ```
+
+![image](https://github.com/user-attachments/assets/385cf201-73f9-4955-bdef-3b181aa6711d)
+
+
+```sql
+SELECT Patient.patient_name, Doctor.doctor_name FROM Patient RIGHT JOIN Doctor ON Patient.doctor_id = Doctor.doctor_id;
+```
 ![Uploading image.png…]()
 
