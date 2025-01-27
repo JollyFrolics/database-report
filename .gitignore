@@ -1,3 +1,4 @@
 *.html
-node-module/*
-package*
+node-module/
+package.json
+package-lock.json
