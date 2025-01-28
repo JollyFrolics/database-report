@@ -1,4 +1,4 @@
-# Lab Report 1
+# Lab Report 2
 
 ## Preparing a Database with Foreign Key
 
